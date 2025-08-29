@@ -4,7 +4,7 @@
 
 # 📂 HTTP Request Projects Roadmap
 
-```
+<pre><code>
 react-http-scopes/
 │
 ├── README.md   # main roadmap
@@ -29,4 +29,4 @@ react-http-scopes/
     ├── 13-learning-management.md
     ├── 14-food-ordering-app.md
     └── 15-blog-platform.md
-```
+</pre></code>
