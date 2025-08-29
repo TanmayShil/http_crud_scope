@@ -10,11 +10,9 @@ react-http-scopes/
 ├── README.md   # main roadmap
 │
 ├── basic/
-│   ├── 01-weather-app.md
-│   ├── 02-github-user-finder.md
-│   ├── 03-todo-list.md
-│   ├── 04-contact-manager.md
-│   └── 05-currency-converter.md
+│   ├── 01-todo-list.md
+│   ├── 02-contact-manager.md
+│   └── 03-currency-converter.md
 │
 ├── medium/
 │   ├── 06-notes-app-jsonserver.md
@@ -30,3 +28,10 @@ react-http-scopes/
     ├── 14-food-ordering-app.md
     └── 15-blog-platform.md
 </pre></code>
+
+
+# 1. Todo List App (CRUD with Fake API)
+scope:
+ - Use JSONPlaceholder API for todos.
+ - Add (POST), Edit (PUT), Delete (DELETE), View (GET).
+ - Focus: Practicing all HTTP methods in React.
