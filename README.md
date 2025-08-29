@@ -1,12 +1,32 @@
-# React + Vite
+# 🚀 React HTTP Request Practice Projects Scope
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+---
 
-Currently, two official plugins are available:
+# 📂 HTTP Request Projects Roadmap
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+```
+react-http-scopes/
+│
+├── README.md   # main roadmap
+│
+├── basic/
+│   ├── 01-weather-app.md
+│   ├── 02-github-user-finder.md
+│   ├── 03-todo-list.md
+│   ├── 04-contact-manager.md
+│   └── 05-currency-converter.md
+│
+├── medium/
+│   ├── 06-notes-app-jsonserver.md
+│   ├── 07-book-library.md
+│   ├── 08-ecommerce-product-list.md
+│   ├── 09-employee-management.md
+│   └── 10-ticketing-system.md
+│
+└── high/
+    ├── 11-inventory-dashboard.md
+    ├── 12-healthcare-appointments.md
+    ├── 13-learning-management.md
+    ├── 14-food-ordering-app.md
+    └── 15-blog-platform.md
+```
